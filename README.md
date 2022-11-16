@@ -8,7 +8,7 @@ A very basic implementation of rock paper scissors in javascript and html
 
 ![picture of 3 dialogue boxes](rps_pic.png "rock paper scissors")
 
-![Give it a whirl](#)
+![Give it a whirl](https://mkalik.github.io/rps-game/)
 
 ## Usage:
 
